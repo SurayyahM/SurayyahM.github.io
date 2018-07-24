@@ -1,0 +1,31 @@
+h1 {
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 2.5em;
+}
+#grad {
+  background: linear-gradient(to bottom right, red, yellow);
+}
+body {
+  color: black;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 1em;
+}
+.container {
+  margin: 10px;
+  padding: 15px;
+}
+img {
+  height: 500px;
+  width: 500px;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+<script src="cats.js"></script>
